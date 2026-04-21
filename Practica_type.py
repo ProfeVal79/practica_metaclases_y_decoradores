@@ -17,3 +17,5 @@ print(f"hola soy {h.nombre} tengo {h.edad} y soy {h.sexo}")
 
 e = Empleado()
 print(f"mi nombre es {e.nombre}, soy empleado en {e.puesto} mi antigüedad es {e.antiguedad} años y mi salario es {e.salario}")
+
+
